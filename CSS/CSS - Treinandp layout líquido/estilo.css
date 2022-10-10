@@ -1,0 +1,64 @@
+				body {
+						background: #f2f2f2;
+							}
+
+				#container {
+					margin: 0px auto;
+					width: 85%;
+					background: white;
+					min-width: 720px;
+				}
+
+				#cabecalho {
+					padding: 3em;
+					background: gray;
+					text-align: center;
+					line-height: 10px;
+				}
+
+				#menu {
+					background: lightgray;
+					float: left;
+					width: 23%;
+				}
+
+				#conteudo {
+					float: right;
+					width: 75%;
+				}
+
+				#corpo {
+					width: 64%;
+					float: left;
+	 			}
+
+				#card-direito {
+					width: 34%;
+					background: lightgray;
+					float: right;
+				}
+
+				#card-direito h2,
+				#card-direito p {
+					padding: 10px;
+				}
+
+				a {
+					text-decoration: none;
+					font-weight: bold;
+					color: black;
+				}
+
+				#lista-menu {
+					list-style-type: none;
+				}
+
+				#rodape {
+					clear: both;
+					background: lightgray;
+					height: 50px;
+					font-weight: bold;
+					line-height: 50px;
+					text-align: center;
+				}
+	

@@ -1,0 +1,113 @@
+
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+fieldset{
+	padding: 1em;
+	margin: 1em 0;
+	border: 1 px solid #ccc;
+	background: #f8f8f8;
+}
+
+legend{
+	font-weight: bold;
+}
+
+label{
+	cursor: pointer;
+	display: block;
+	padding: 5px;
+}
+
+input[type="text"]{
+	width: 20em;
+}
+
+textarea{
+	width: 22em;
+	height: 10em;
+}
+
+.radio{
+	margin-right: 1em;
+}
+/*
+table{
+	width: 600px;
+	border-collapse: separate;
+}
+
+th, td{
+	padding: 7px;
+}
+
+th{
+	text-transform: uppercase;
+	border: 1px solid #999;
+	text-align: left;
+	font-size: 90%;
+	letter-spacing: 0.1em;
+}
+
+tr.alternado{
+	background: #efefef;
+}
+
+tr:hover{
+	background-color: #c3e6e5;
+
+}
+
+.numero{
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
